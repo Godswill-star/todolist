@@ -1,0 +1,19 @@
+#alert-message{
+    background-color: #43f143f8;
+    color: white;
+    display: none;
+    
+}
+
+#error-message{
+    background-color: rgb(250, 178, 110);
+    color: white;
+    display: none;
+}
+
+#X{
+    float:right ;
+    margin-left: 15px;
+    line-height: 20px;
+    cursor: pointer;
+}
